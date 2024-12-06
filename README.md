@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @rajidush
-- 👀 I’m 
-- 🌱 I’m currently 
 - # Welcome to My GitHub! 👋  
 
 Hi there! I'm Rajinda Hettige, a passionate explorer interested in emerging technologies
