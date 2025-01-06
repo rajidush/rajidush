@@ -6,7 +6,7 @@ Hi there! I'm Rajinda Hettige, a passionate explorer interested in emerging tech
 - 🔭 I’m currently working on MERN-based projects  
 - 🌱 I’m currently reading for my software engineering degree  
 - 📫 How to reach me:   
-      [LinkedIn](https://www.linkedin.com/in/your-profile/)
+      [LinkedIn](www.linkedin.com/in/rajinda-hettige)
 
 ---
 
@@ -28,7 +28,7 @@ Hi there! I'm Rajinda Hettige, a passionate explorer interested in emerging tech
 
 ## 🤝 Connect With Me  
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)  
+- [LinkedIn](www.linkedin.com/in/rajinda-hettige)  
 
 
 ---
