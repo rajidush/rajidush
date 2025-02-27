@@ -20,7 +20,7 @@ Hi there! I'm Rajinda Hettige, a passionate explorer interested in emerging tech
 
 ## 🌟 Highlights  
 
-- 🏆 Achievements: **[Your Key Accomplishments]**  
+- 🏆 Achievements:   
 - 💻 Favorite Projects:  
 
 
