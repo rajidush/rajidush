@@ -4,7 +4,7 @@ Hi there! I'm Rajinda Hettige, a passionate explorer interested in emerging tech
 ## 🚀 About Me  
 
 - 🔭 I’m currently working on MERN-based projects  
-- 🌱 I’m currently reading for my software engineering degree  
+- 🌱 I’m currently reading for my degree in Data Science  
 - 📫 How to reach me:   
       [LinkedIn](www.linkedin.com/in/rajinda-hettige)
 
